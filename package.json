@@ -1,0 +1,13 @@
+{
+  "name": "socket-node-w3c",
+  "version": "0.0.1",
+  "description": "Socket.io + Nodejs",
+  "scripts": {
+    "start": "nodemon web.js"
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.5.0",
+    "mustache-express": "^1.2.2"
+  }
+}
